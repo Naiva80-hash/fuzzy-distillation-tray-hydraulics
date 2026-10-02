@@ -432,7 +432,6 @@ This project demonstrates:
 ## Authors
 
 **Mohammad Mahdi Saeedi**  
-**Amirhossein Taremi**
 
 Sharif University of Technology  
 Department of Chemical and Petroleum Engineering
